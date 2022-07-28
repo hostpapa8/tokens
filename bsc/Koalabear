@@ -1,0 +1,11 @@
+{
+ "name": "Koalabear",
+ "website": "https://koabear.net",
+ "description": "The Koala Bear is a community-focused, fairly launched DeFi Token.",
+ "explorer": "https://bscscan.com/token/0xa1217c0cce65a37e77cf43af277c0b29d808652c",
+ "type": "BEP20",
+ "symbol": "KOALA",
+ "decimals": 9,
+ "status": "active",
+ "id": "0xa1217c0cce65a37e77cf43af277c0b29d808652c"
+}
